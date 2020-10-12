@@ -1,0 +1,12 @@
+name: TesteVocacionalCientistaDados
+title: TesteVocacionalCientistaDados
+username:
+account: capizani
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2997955
+bundleId: 3731592
+url: https://capizani.shinyapps.io/TesteVocacionalCientistaDados/
+when: 1602533868.33546
+asMultiple: FALSE
+asStatic: FALSE
